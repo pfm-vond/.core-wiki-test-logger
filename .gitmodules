@@ -1,0 +1,4 @@
+[submodule "Wiki"]
+	path = Wiki
+	url = https://github.com/pfm-vond/.core-wiki-test-logger.wiki.git
+	branch = master
